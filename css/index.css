@@ -28,4 +28,10 @@
 .col-main span {
   font-weight: bold;
 }
+
+@media (max-width: 709px) {
+  .col-main {
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=index.css.map */
