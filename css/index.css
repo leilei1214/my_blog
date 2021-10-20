@@ -1,0 +1,31 @@
+.col-main {
+  width: 50%;
+  float: left;
+}
+
+.col-main .main-title {
+  background: cornflowerblue;
+  color: azure;
+  padding: 7px;
+  border-radius: 10px;
+}
+
+.col-main .main-title-p {
+  background: cornflowerblue;
+  color: azure;
+  padding: 7px 23px;
+  border-radius: 10px;
+}
+
+.col-main div {
+  padding: 20px;
+}
+
+.col-main div div {
+  padding: 5px;
+}
+
+.col-main span {
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.css.map */
